@@ -61,4 +61,4 @@ main.o: main.c
 
 clean:
 	rm -f *.o *.a *.so mains.exe maindloop maindrec
-.PHONY:clean loopd loops recursived recursives
+.PHONY: clean loopd loops recursived recursives all
